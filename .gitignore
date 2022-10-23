@@ -3,3 +3,15 @@
 ################################################################################
 
 /.vs/TaskManager/v17/.suo
+/.vs/TaskManager/FileContentIndex
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
+/TaskManager/.vs
+/TaskManager/TaskManager/bin/Debug/net6.0
+/TaskManager/TaskManager/obj
+/TaskManager/TaskManager.Business/bin/Debug/net6.0
+/TaskManager/TaskManager.Business/obj
+/TaskManager/TaskManager.DataAccessLayer.cs/bin/Debug/net6.0
+/TaskManager/TaskManager.DataAccessLayer.cs/obj
+/TaskManager/TaskManager.Database/bin/Debug/net6.0
+/TaskManager/TaskManager.Database/obj
